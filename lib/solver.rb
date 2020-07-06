@@ -1,7 +1,7 @@
 class Solver
 
   def find_it(seq)
-    1
+    seq[0]
   end
 
 end

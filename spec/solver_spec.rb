@@ -10,6 +10,10 @@ describe 'solver' do
       expect(solver.find_it([1])).to eq 1
     end
 
+    it('should return 2') do
+      expect(solver.find_it([2])).to eq 2
+    end
+
   end
 
 end
