@@ -10,4 +10,4 @@ There will always be only one integer that appears an odd number of times.
 
 ## Tests
 
-Using TDD green, red, refactor cycle
+Using TDD green, red, refactor cycle to test drive towards a solution.
